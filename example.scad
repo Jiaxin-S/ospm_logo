@@ -1,2 +1,2 @@
-include <ospm_logo/index.scad>
+include <index.scad>
 Logo(50);
